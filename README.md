@@ -6,7 +6,8 @@ Idea shared by [Jelle Prins](https://twitter.com/jelleprins/status/1616732334514
 
 ## Demo
 
-https://github.com/eduardostuart/ios-scriptable-shortcut-openai/blob/main/demo.mp4
+https://user-images.githubusercontent.com/767879/213875587-41ab7fc7-59a0-4f6c-9fef-d226aae987eb.mp4
+
 
 ## Requirements
 
