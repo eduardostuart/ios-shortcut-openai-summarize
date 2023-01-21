@@ -1,12 +1,12 @@
-<p align="right">
-    <video width="360" controls  src="https://github.com/eduardostuart/ios-scriptable-shortcut-openai/blob/main/demo.mp4" />
-</p>
-
 # Scriptable + Apple Shortcut + OpenAI - Summarize
 
 Script and shortcuts to quickly and easily summarize the content of images or texts.
 
 Idea shared by [Jelle Prins](https://twitter.com/jelleprins/status/1616732334514122752) on [Twitter](https://twitter.com/eduardostuart/status/1616737195423059968), _"Translate government speak into something more accessible and comprehensible"_.
+
+## Demo
+
+https://github.com/eduardostuart/ios-scriptable-shortcut-openai/blob/main/demo.mp4
 
 ## Requirements
 
