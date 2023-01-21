@@ -6,8 +6,11 @@ Idea shared by [Jelle Prins](https://twitter.com/jelleprins/status/1616732334514
 
 ## Demo
 
+From image:
 https://user-images.githubusercontent.com/767879/213875587-41ab7fc7-59a0-4f6c-9fef-d226aae987eb.mp4
 
+From text:
+https://user-images.githubusercontent.com/767879/213876840-d2c27026-fc31-491e-bc8b-243b41cb0d8d.mp4
 
 ## Requirements
 
