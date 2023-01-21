@@ -8,7 +8,7 @@
 // https://docs.scriptable.app/args/#shortcutparameter
 const input = args.shortcutParameter || "";
 
-if (input.length == 0) {
+if (input.length === 0) {
   return false;
 }
 
