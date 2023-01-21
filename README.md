@@ -27,3 +27,7 @@ Idea shared by [Jelle Prins](https://twitter.com/jelleprins/status/1616732334514
 2. Create a new scriptable script and include the code from [scriptable.js](./scriptable.js).
 
 Depending on the name of your scriptable script you might need to change the reference on the shortcut (Translate and summarize text).
+
+# Author
+
+[Eduardo Stuart](https://s.tuart.dev)
