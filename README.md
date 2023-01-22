@@ -5,7 +5,9 @@
 Apple shortcut to quickly and easily summarize the content of images or texts.
 
 
-Demo: https://www.youtube.com/shorts/lPM0GsUeLGY 
+
+😎 Demo: https://www.youtube.com/shorts/lPM0GsUeLGY 
+
 
 
 > 
