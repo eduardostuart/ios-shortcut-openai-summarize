@@ -4,18 +4,12 @@
 
 Apple shortcut to quickly and easily summarize the content of images or texts.
 
+😎 Demo: https://www.youtube.com/shorts/lPM0GsUeLGY
 
-
-😎 Demo: https://www.youtube.com/shorts/lPM0GsUeLGY 
-
-
-
-> 
 > 🚨  
-> Do not blindly trust the results and always double-check the output for accuracy, especially when using it on letters. 
-> 
+> Do not blindly trust the results and always double-check the output for accuracy, especially when using it on letters.
+>
 > Remember to always remove any private information before using the shortcut.
-> 
 
 ---
 
@@ -33,12 +27,10 @@ Apple shortcut to quickly and easily summarize the content of images or texts.
 
 ## Bonus/Tips
 
-1. If you are getting untranslated or weird characters in the response, try adding quotes around the text
-1. You can also change the language output to whatever you want. The default is `en-us`. 
+1. You can also change the language output to whatever you want. The default is `en-us`.
 
 ## Author
 
 [Eduardo Stuart](https://s.tuart.dev)
-
 
 Idea shared by [Jelle Prins](https://twitter.com/jelleprins/status/1616732334514122752) on [Twitter](https://twitter.com/eduardostuart/status/1616737195423059968).
