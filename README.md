@@ -19,19 +19,24 @@ Apple shortcut to quickly and easily summarize the content of images or texts.
 
 ---
 
-# Installation
+## Installation
 
 1. Download the [`shortcut`](./Summarize.shortcut) on your iOS device (Mac, iPhone or iPad);
 1. Create an API token on https://beta.openai.com
 1. Edit the shortcut, replace API_TOKEN with the new token.
 
-# How it works
+## How it works
 
 1. You'll be able to select a photo from your library or take a new photo.
 1. Review and edit the extract text (remove private information)
 1. Wait for the result.
 
-# Author
+## Bonus/Tips
+
+1. If you are getting untranslated or weird characters in the response, try adding quotes around the text
+1. You can also change the language output to whatever you want. The default is `en-us`. 
+
+## Author
 
 [Eduardo Stuart](https://s.tuart.dev)
 
