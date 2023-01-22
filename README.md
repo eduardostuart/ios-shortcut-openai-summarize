@@ -2,9 +2,8 @@
 
 Apple shortcut to quickly and easily summarize the content of images or texts.
 
----
+Demo: https://www.youtube.com/shorts/lPM0GsUeLGY 
 
-Idea shared by [Jelle Prins](https://twitter.com/jelleprins/status/1616732334514122752) on [Twitter](https://twitter.com/eduardostuart/status/1616737195423059968).
 
 # Installation
 
@@ -21,3 +20,6 @@ Idea shared by [Jelle Prins](https://twitter.com/jelleprins/status/1616732334514
 # Author
 
 [Eduardo Stuart](https://s.tuart.dev)
+
+
+Idea shared by [Jelle Prins](https://twitter.com/jelleprins/status/1616732334514122752) on [Twitter](https://twitter.com/eduardostuart/status/1616737195423059968).
