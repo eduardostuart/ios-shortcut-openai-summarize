@@ -25,10 +25,6 @@ Apple shortcut to quickly and easily summarize the content of images or texts.
 1. Review and edit the extract text (remove private information)
 1. Wait for the result.
 
-## Bonus/Tips
-
-1. You can also change the language output to whatever you want. The default is `en-us`.
-
 ## Author
 
 [Eduardo Stuart](https://s.tuart.dev)
