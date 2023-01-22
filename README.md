@@ -1,3 +1,16 @@
+Update: New version of the shortcut.
+
+- Installation: https://www.icloud.com/shortcuts/a7b135954b4e41f280c1438e660bb332
+
+> In this version, you'll only need to update the api token.
+
+Add the shortcut to your `dock` (mac) or `home screen` (iPhone/iPad). 
+1. You'll be able to select a photo from your library or take a new photo. 
+1. Review and edit the extract text (remove private information)
+1. Wait for the result.
+
+--- 
+
 # Scriptable + Apple Shortcut + OpenAI - Summarize
 
 Script and shortcuts to quickly and easily summarize the content of images or texts.
