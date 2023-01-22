@@ -8,6 +8,13 @@ Apple shortcut to quickly and easily summarize the content of images or texts.
 Demo: https://www.youtube.com/shorts/lPM0GsUeLGY 
 
 
+> 
+> 🚨  
+> Do not blindly trust the results and always double-check the output for accuracy, especially when using it on letters. 
+> 
+> Remember to always remove any private information before using the shortcut.
+> 
+
 ---
 
 # Installation
