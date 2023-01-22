@@ -1,9 +1,14 @@
+<img width="400" src="./screenshot.png" align="right">
+
 # Summarize - Apple Shortcut Open AI
 
 Apple shortcut to quickly and easily summarize the content of images or texts.
 
+
 Demo: https://www.youtube.com/shorts/lPM0GsUeLGY 
 
+
+---
 
 # Installation
 
